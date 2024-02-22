@@ -1,0 +1,22 @@
+.hero{
+    
+    height: 100%;
+    width: 100%;
+    padding-top: 100px;
+}
+
+.box{
+    padding: 20px;
+    border: 1px solid #9e999d;
+}
+
+.color-yellow{
+    background-color: #fbb102;
+}
+
+.color-black{
+    background-color: #171717;
+}
+.color-pink{
+    background-color: #deb0b2;
+}
