@@ -6,7 +6,19 @@
     border: 1px solid #fff;
 }
 
+.box-m{
+    background-color: #016DFA;
+    
+    padding: 20px;
+    border: 1px solid #fff;
+}
+
 .box .box {
     background-color: #00E265; 
     border: 1px solid #016DFA;
 }
+
+.col-number{
+    margin-bottom: 20px;
+}
+
