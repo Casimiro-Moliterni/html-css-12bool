@@ -14,12 +14,17 @@
     margin: 0 auto;
 }
 
-body{
+section{
     width: 100vw;
     background-image: url(./img/2901649-sfondo-carta-bianco-stropicciata-gratuito-foto.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
+    padding-left: 20px;
+}
+
+#hero-2 .conteiner{
+    max-width: 700px;
 }
 
 /*----------------

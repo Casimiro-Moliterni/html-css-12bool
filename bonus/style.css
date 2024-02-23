@@ -57,7 +57,36 @@ button{
     background-image: url(./img/pixel-art-arcade-game-scene-with-mill-trees-and-clouds-8-bit-background-vector.jpg);
 }
 
-.bros{
-    width: 25px;
-    height: 25px;
+#hero-2 .col-4,
+#hero-2 .col-4 .row div{
+    border: 1px solid coral;
+}
+
+.box-mario{
+    background-color: rgba(248, 239, 239, 0.4);
+    padding: 15px;
+    border: 1px solid #9e999d;
+}
+
+.color-red{
+    background-color: #ff0000;
+}
+
+.color-white{
+    background-color: white;
+}
+.color-salmon{
+    background-color: #ffc89e;
+}
+.color-brown{
+    background-color: #7f3300;
+}
+.color-black{
+    background-color: #171717;
+}
+.color-blue{
+    background-color: #0026ff;
+}
+.color-yellow{
+    background-color: #fbb102;
 }
